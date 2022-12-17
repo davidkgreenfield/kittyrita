@@ -3,4 +3,26 @@
     color: white;
     width: 100%;
     height: 3rem;
+    font-family: "American Typewriter";
+    display: flex;
+    justify-content: center;
+    padding-top: 1.5rem;
+    font-size: 24px;
+}
+
+.main{
+    display: flex;
+    font-family: "American Typewriter";
+}
+
+.right{
+    padding: 1rem 1rem 1rem 1rem;
+}
+.rightHeading{
+    font-size: medium;
+    padding-bottom: 1rem;
+}
+
+.kittyProfile{
+    padding-bottom: 1rem;
 }

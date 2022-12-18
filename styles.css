@@ -10,9 +10,33 @@
     font-size: 24px;
 }
 
+.description{
+    padding: 1rem;
+}
 .main{
     display: flex;
     font-family: "American Typewriter";
+}
+
+.step1{
+    display: flex;
+    justify-content: space-between;
+    font-family: "American Typewriter";
+    background-color: black;
+    color: white;
+}
+
+.step2{
+    display: flex;
+    justify-content: space-between;
+    font-family: "American Typewriter";
+    background-color: white;
+    color: black;
+
+}
+.centered{
+    display: flex;
+    justify-content: center;
 }
 
 .right{
